@@ -15,7 +15,18 @@ public class GITSecond {
 		System.out.println("Method 3");
 
 	}
-	
+	private void fridge() {
+		System.out.println("Fridge");
+
+	}
+	private void tv() {
+		System.out.println("TV");
+
+	}
+	private void sewingMachine() {
+		System.out.println("Sewing Machine");
+
+	}
 	
 
 }
