@@ -15,7 +15,18 @@ public class GITSecond {
 		System.out.println("Method 3");
 
 	}
-	
+	private void fan() {
+		System.out.println("Fan");
+
+	}
+	private void tubeLight() {
+		System.out.println("Tube Light");
+
+	}
+	private void ac() {
+		System.out.println("AC");
+
+	}
 	
 
 }
